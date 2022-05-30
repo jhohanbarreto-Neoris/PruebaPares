@@ -1,5 +1,5 @@
-def suma(x,y)
-print(x+y)
+def suma(n1,n2)
+print(n1+n2)
 
-def  resta(x,y)
-print(x,y)
+def  resta(n1,n2)
+print(n1,n2)
